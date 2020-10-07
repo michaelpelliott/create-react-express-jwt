@@ -1,8 +1,10 @@
 # Create React Express App Boilerplate
 
+[Demo Deployed on Heroku: https://create-react-express-bp.herokuapp.com/signup](https://create-react-express-bp.herokuapp.com/signup)
+
 ## About This Boilerplate
 
-This setup allows for a Node/Express/React/JWT app which can be easily deployed to Heroku.
+This setup allows for a Node/Express/React/JWT app which can be easily deployed to Heroku and leverage [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for database functionality.
 
 The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
 
